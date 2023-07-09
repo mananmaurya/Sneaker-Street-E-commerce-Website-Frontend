@@ -1,6 +1,11 @@
 html{
     scroll-behavior: smooth;
 }
+.icon{
+    width: 200px;
+    position: absolute;
+    height: 40px;
+}
 body{
     font-family: 'Lato', sans-serif;
     padding: 0;
